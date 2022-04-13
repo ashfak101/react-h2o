@@ -1,0 +1,10 @@
+.cash-summary {
+    margin-top: 40px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.cash-summary span {
+    font-size: larger;
+}
